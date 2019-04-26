@@ -24,7 +24,8 @@ At that point, you should see the message "Yay this works!" appear in the consol
 
 Because this tool will execute **any** command you provide, it might not be very safe to run as root or an important account unless you know what you're doing.
 
-
+##	License
+Released under the [https://opensource.org/licenses/MIT](Mit License)
 
 
 
